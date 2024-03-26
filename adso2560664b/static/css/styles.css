@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+    text-align: center;
+    background-color: bisque;
+}
+h2{
+    color: aqua;
+    text-align: left;
+}
+body{
+    background-color: rgb(140, 195, 231);
+}
